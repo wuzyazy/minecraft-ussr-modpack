@@ -1,2 +1,3 @@
 # minecraft-ussr-modpack
-Official Minecraft USSR Roleplay Mods. Please take note that they are gonna update when I want.
+20 Mods are added.
+Modpack made by Azymasysm for roleplay purposes.
